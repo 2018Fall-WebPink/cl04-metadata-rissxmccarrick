@@ -1,0 +1,30 @@
+/*
+Marissa McCarrick
+November 8
+MetaData Project: This is a page that describes what Christmas means to me and what I do!
+/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {background-color:oldlace;
+
+}
+
+header {
+    background-color: mediumseagreen;
+}
+
+
+main { 
+    background-color:orangered;
+    }
+
+footer {
+    background-color: goldenrod;
+}
